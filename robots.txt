@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ryg.github.io/sitemap.xml
+Sitemap: https://rygcode.github.io/sitemap.xml
