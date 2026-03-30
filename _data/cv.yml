@@ -57,22 +57,43 @@ cv:
           - Provided comprehensive technical support and guidance to end-users, resulting in increased overall user satisfaction and enhanced user experience.
           - Maintain and conduct network monitoring for end-users, ensuring a robust network environment during implementation
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      # - company: University of Zurich
+      #   position: Associate Professor of Theoretical Physics
+      #   location: Zurich, Switzerland
+      #   start_date: 1909
+      #   end_date: 1911
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Laboratory Asistant
+        position: Telecommunication Lab ITS
+        location: Surabaya, Indonesia
+        start_date: 2022-03-01
+        end_date: 2022-05-01
+        # summary: Assisted in planning and organizing 3 major events.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Guided and supervised 60+ students during laboratory sessions, ensuring adherence to proper procedures and safety standards."
+          - "Delivered clear explanations of four laboratory modules, helping students understand telecommunication concepts and experiment procedures effectively."
+
+      - company: PKMBK ITS 
+        position: Event Staff
+        location: Surabaya, Indonesia
+        start_date: 2020-01-20
+        end_date: 2021-01-19
+        # summary: Assisted in planning and organizing 3 major events.
+        highlights:
+          - "Developed and executed fundraising strategies through four sales initiatives to support organizational funding targets."
+          - "Identified and collaborated with three external vendors, optimizing sales performance and coordinating marketing activities."
+          - "Monitored and evaluated fundraising outcomes to improve future strategies and ensure alignment with organizational goals.."
+
+      - company: PKMBK ITS 
+        position: Event Staff
+        location: Surabaya, Indonesia
+        start_date: 2020-01-20
+        end_date: 2021-01-19
+        # summary: Assisted in planning and organizing 3 major events.
+        highlights:
+          - "Assisted in planning and organizing 3 major events, including concept development, scheduling, and operational preparation. Coordinated with internal teams and external vendors to support event logistics and ensure smooth event execution. "
+          - "Evaluated event outcomes and contributed recommendations to improve future event planning and management."
 
     # Awards:
     #   - title: Nobel Prize in Physics
@@ -91,14 +112,15 @@ cv:
     #     summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title:  Indonesian Abusive Tweet Classification Based on CNN and LSTM Algorithm Project
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
+          - Reinaldo Yosafat Gultom
+          - Fahri Izzuddin Zulkarnaen
+          - Yahma Nurhasanah
+        publisher: IEEE
+        releaseDate: 2022-02-01
+        url: https://ieeexplore.ieee.org/document/9689728
+        summary: The desired purpose of this research is to help those who need this research to be able to use it to supervise others from hate speech and find the perpetrators who do it. 
       # - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
       #   authors:
       #     - Albert Einstein
@@ -116,11 +138,16 @@ cv:
       #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
+      - name: Hard Skills
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+        keywords: " Network Infrastructure Design & Troubleshooting, Programming Language (Python, C, Javascript, Matlab), SQL, Machine Learning (Scikit Learn and Tensorflow), Data Visualization (Tableau, Power BI), Microsoft Excel & Spreadsheets, Git, Ms Office"
+      
+      - name: Soft Skills
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Analytical Thinking, Problem Solving, Team Collaboration, Time Management"
+      
     Languages:
       - name: Indonesian
         summary: "Native speaker"
@@ -134,29 +161,45 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Cisco Certified Network Associate
+        # date: 2018-01-01
+        issuer: Cisco
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Huawei Certified ICT Associate (HCIA) Datacom
+        # date: 2018-01-01
+        issuer: Huawei
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Tensorflow Certificate
+        # date: 2018-01-01
+        issuer: Tensorflow
+        icon: fa-solid fa-envelope
+        
+      - name: Huawei Certified ICT Associate (HCIA) AI 
+        # date: 2018-01-01
+        issuer: Huawei
+        icon: fa-solid fa-location-dot
+
+      - name: Mathematics for Machine Learning Certificate
+        # date: 2018-01-01
+        issuer: Coursera
+        icon: fa-solid fa-tag
+
+      - name: Google IT Automation with Python Certificate
+        # date: 2018-01-01
+        issuer: Coursera
         icon: fa-solid fa-envelope
 
+        
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Modulation Recognition in Radio Wireless Communication with Convolutional Neural Networks
+        summary: Developed a modulation recognition system for wireless radio signals using Convolutional Neural Networks (CNN), enabling automatic classification of signal types from raw data. The model improves accuracy and efficiency in identifying communication patterns, supporting more reliable and intelligent wireless communication systems.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Machine Learning
+          - Telecommuncation
+        start_date: 2022-08-08
+        end_date: 2023-07-07
 
     # References:
     #   - name: Professor John Doe
