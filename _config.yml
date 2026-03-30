@@ -210,6 +210,7 @@ exclude:
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/publications.md
+  - _pages/dropdown.md
   - _posts/
   - assets/jupyter/blog.ipynb
 keep_files:
