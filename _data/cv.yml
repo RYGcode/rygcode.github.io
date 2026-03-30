@@ -139,13 +139,13 @@ cv:
 
     Skills:
       - name: Hard Skills
-        level: Master
-        icon: fa-solid fa-hashtag
+        # level: Master
+        icon: fa-solid fa-tag
         keywords: " Network Infrastructure Design & Troubleshooting, Programming Language (Python, C, Javascript, Matlab), SQL, Machine Learning (Scikit Learn and Tensorflow), Data Visualization (Tableau, Power BI), Microsoft Excel & Spreadsheets, Git, Ms Office"
       
       - name: Soft Skills
-        level: Master
-        icon: fa-solid fa-hashtag
+        # level: Master
+        icon: fa-solid fa-tag
         keywords: "Analytical Thinking, Problem Solving, Team Collaboration, Time Management"
       
     Languages:
@@ -164,7 +164,7 @@ cv:
       - name: Cisco Certified Network Associate
         # date: 2018-01-01
         issuer: Cisco
-        icon: fa-solid fa-location-dot
+        icon: fa-solid fa-tag
 
       - name: Huawei Certified ICT Associate (HCIA) Datacom
         # date: 2018-01-01
@@ -174,12 +174,12 @@ cv:
       - name: Tensorflow Certificate
         # date: 2018-01-01
         issuer: Tensorflow
-        icon: fa-solid fa-envelope
+        icon: fa-solid fa-tag
         
       - name: Huawei Certified ICT Associate (HCIA) AI 
         # date: 2018-01-01
         issuer: Huawei
-        icon: fa-solid fa-location-dot
+        icon: fa-solid fa-tag
 
       - name: Mathematics for Machine Learning Certificate
         # date: 2018-01-01
@@ -189,7 +189,7 @@ cv:
       - name: Google IT Automation with Python Certificate
         # date: 2018-01-01
         issuer: Coursera
-        icon: fa-solid fa-envelope
+        icon: fa-solid fa-tag
 
         
     Projects:
