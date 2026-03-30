@@ -4,7 +4,7 @@ cv:
   email: reinaldogultom@gmail.com
   location: Jakarta, Indonesia
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: LinkedIn
@@ -33,7 +33,7 @@ cv:
         # courses: "Theory of Relativity"
         highlights:
           - Published a paper as a leading participant at the 1st International Conference on Artificial Intelligence and Big Data Analytics (ICAIBDA).
-          - Field Of Study Interest : Computer Networking, Telecommunication, Machine Learning. Actively participates in more than 10 campus events.
+          - Field Of Study Interest (Computer Networking, Telecommunication, Machine Learning). Actively participates in more than 10 campus events.
 
       # - institution: Eidgenössische Technische Hochschule
       #   location: Zurich, Switzerland
@@ -46,36 +46,16 @@ cv:
       #     - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Berca Hardayaperkasa
+        position: Network Engineer
+        location: Jakarta, Indonesia
+        start_date: 2024
+        end_date: 2026
+        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+          - Implemented installation and configuration of essential network devices proficiently, including Ethernet switching and GPON devices with over 10 projects.
+          - Provided comprehensive technical support and guidance to end-users, resulting in increased overall user satisfaction and enhanced user experience.
+          - Maintain and conduct network monitoring for end-users, ensuring a robust network environment during implementation
 
       - company: University of Zurich
         position: Associate Professor of Theoretical Physics
