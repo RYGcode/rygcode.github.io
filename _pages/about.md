@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: network engineer | IT enthusiast
 profile:
   align: right
   image: prof_pic.jpg
@@ -26,5 +25,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am interested , a field that continues to evolve rapidly. I see it as the study and application of systems, data, and networks to solve real-world problems and improve how people interact with technology. This perspective shapes my work, learning journey, and technical practice.
 
-Electrical Engineering graduate with a strong interest in data and technology. Currently working as a Network Engineer with experience in network implementation and troubleshooting. Known for strong analytical thinking and problem solving abilities, with the capacity to adapt and collaborate effectively in team environments. A highly motivated and fast learner who is eager to continuously develop new skills and contribute to delivering efficient and reliable solutions. 
+I graduated with a degree in Electrical Engineering from Institut Teknologi Sepuluh Nopember, where I developed a strong interest in data analytics, programming, and network systems.I have been actively involved in technical projects, bootcamps, and lab work, which strengthened both my analytical thinking and teamwork abilities.
+
+Currently, I work as a Network Engineer, focusing on designing, configuring, and maintaining network infrastructure while continuing to expand my expertise in data and technology.
+
