@@ -152,7 +152,7 @@ collections:
   books:
     output: true
   news:
-    defaults:
+    defaults: false
       layout: post
     output: false
   projects:
