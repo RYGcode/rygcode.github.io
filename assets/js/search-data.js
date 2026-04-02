@@ -134,6 +134,27 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/reinaldogultom", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/RYGcode", "_blank");
+        },
+      },{
+        id: 'social-discord',
+        title: 'Discord',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://discord.com/users/dlwlrrna", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/reinaldougultom", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
