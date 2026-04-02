@@ -12,6 +12,7 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -25,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am interested , a field that continues to evolve rapidly. I see it as the study and application of systems, data, and networks to solve real-world problems and improve how people interact with technology. This perspective shapes my work, learning journey, and technical practice.
+I am interested in IT, a field that continues to evolve rapidly. I see it as the study and application of systems, data, and networks to solve real-world problems and improve how people interact with technology. This perspective shapes my work, learning journey, and technical practice.
 
 I graduated with a degree in Electrical Engineering from Institut Teknologi Sepuluh Nopember, where I developed a strong interest in data analytics, programming, and network systems.I have been actively involved in technical projects, bootcamps, and lab work, which strengthened both my analytical thinking and teamwork abilities.
 
