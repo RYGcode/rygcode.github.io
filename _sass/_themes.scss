@@ -192,8 +192,8 @@ html[data-theme-setting="light"] {
   content: "\f111";
   color: var(--global-text-color);
   clip-path: polygon(0 0, calc(50% - 0.5px) 0, calc(50% - 0.5px) 100%, 0 100%);
-  right: -1.5px;
-  transform: translateX(-1px); /* visually re-center the sun half */
+  // right: -1.5px;
+  transform: translateX(-2px); /* visually re-center the sun half */
 }
 
 /* Right half: SUN */
