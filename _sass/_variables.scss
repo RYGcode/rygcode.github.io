@@ -30,6 +30,15 @@ $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
+// Light and dark colors
+$dark-blue-color: #00369f !default;
+$dark-grey-color: #1c1c1d;
+$dark-red-color: #b71c1c !default;
+$light-blue-color: color.adjust($blue-color, $lightness: 25%);
+$light-grey-color: color.adjust($grey-color, $lightness: 40%);
+$light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
+$light-purple-color: color.adjust($purple-color, $lightness: 25%);
+$lighter-grey-color: #eee !default;
 $semi-dark-grey-color: color.adjust($grey-color, $lightness: -30%);
 $semi-light-grey-color: color.adjust($grey-color, $lightness: 30%);
 
