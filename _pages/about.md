@@ -5,7 +5,7 @@ permalink: /
 subtitle: network engineer | IT enthusiast
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photoprofile.jpg
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
