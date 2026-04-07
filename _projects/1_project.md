@@ -32,5 +32,3 @@ What i’ve learned so far
 10. try to read error message (even if still hard)
 
 I know im still learning and there are many things i dont understand yet. I will keep practicing and exploring more, and i might update this again later when i learn something new or make a fun project by using linux. :)
-
-{% endraw %}
