@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/img_2.jpg
+title: Linux Projects
+description: all about my linux learning journey
+img: assets/img/img_3.jpg
 importance: 1
-category: work
+category: fun
 related_publications: true
 ---
 
