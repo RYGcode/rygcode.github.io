@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: AMC in wireless communication using CNN 
+description: my academic project
 img: assets/img/img_2.jpg
 importance: 1 
 category: academic
