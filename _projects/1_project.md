@@ -13,13 +13,9 @@ category: fun
     </div>
 </div>
 
-Day by day i learn linux little by little. At first it was really confusing, especially using terminal because im not used to type command for everything. Sometimes i dont even know what im doing and just try random command.
+Day by day i learn linux little by little. At first it was really confusing, especially using terminal because im not used to type command for everything. Sometimes i dont even know what im doing and just try random command.Slowly i start to understand basic things. Like moving between folder, create file, or just checking what inside a directory. It still take time and sometimes i forgot the command, but its getting better.
 
-Slowly i start to understand basic things. Like moving between folder, create file, or just checking what inside a directory. It still take time and sometimes i forgot the command, but its getting better.
-
-There are many time where i got error and dont understand why. Some command not working like i expect, or i type something wrong. But from that i try to search and read a bit, even if not fully understand.
-
-What i like from linux is it give more control. I feel like i actually doing something, not just clicking around. Its still not easy for me, but i think im improving step by step.
+There are many time where i got error and dont understand why. Some command not working like i expect, or i type something wrong. But from that i try to search and read a bit, even if not fully understand.What i like from linux is it give more control. I feel like i actually doing something, not just clicking around. Its still not easy for me, but i think im improving step by step.
 
 
 What i’ve learned so far
