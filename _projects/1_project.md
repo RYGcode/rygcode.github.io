@@ -24,11 +24,11 @@ What i’ve learned so far
 2.  create and manage file and folder
 3.  simple permission like chmod and chown
 4.  install package using apt
-5.  use nano and try vim (still confusing sometimes)
+5.  use nano and try vim 
 6.  check running process with ps and top
 7.  basic linux directory structure
 8.  simple network command like ping and ip
 9.  understand basic command format
-10. try to read error message (even if still hard)
+10. try to read error message 
 
 I know im still learning and there are many things i dont understand yet. I will keep practicing and exploring more, and i might update this again later when i learn something new or make a fun project by using linux. :)
