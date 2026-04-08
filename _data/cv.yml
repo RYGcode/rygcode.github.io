@@ -74,8 +74,8 @@ cv:
           - "Guided and supervised 60+ students during laboratory sessions, ensuring adherence to proper procedures and safety standards."
           - "Delivered clear explanations of four laboratory modules, helping students understand telecommunication concepts and experiment procedures effectively."
 
-      - company: PKMBK ITS 
-        position: Event Staff
+      - company: Evolution ITS 
+        position: Sponsorship & Fundraising Staff
         location: Surabaya, Indonesia
         start_date: 2020-01-20
         end_date: 2021-01-19
@@ -192,14 +192,14 @@ cv:
         icon: fa-solid fa-tag
 
         
-    Projects:
-      - name: Modulation Recognition in Radio Wireless Communication with Convolutional Neural Networks
-        summary: Developed a modulation recognition system for wireless radio signals using Convolutional Neural Networks (CNN), enabling automatic classification of signal types from raw data. The model improves accuracy and efficiency in identifying communication patterns, supporting more reliable and intelligent wireless communication systems.
-        highlights:
-          - Machine Learning
-          - Telecommuncation
-        start_date: 2022-08-08
-        end_date: 2023-07-07
+    # Projects:
+    #   - name: Modulation Recognition in Radio Wireless Communication with Convolutional Neural Networks
+    #     summary: Developed a modulation recognition system for wireless radio signals using Convolutional Neural Networks (CNN), enabling automatic classification of signal types from raw data. The model improves accuracy and efficiency in identifying communication patterns, supporting more reliable and intelligent wireless communication systems.
+    #     highlights:
+    #       - Machine Learning
+    #       - Telecommuncation
+    #     start_date: 2022-08-08
+    #     end_date: 2023-07-07
 
     # References:
     #   - name: Professor John Doe
