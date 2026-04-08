@@ -18,9 +18,6 @@ Modern communication systems are not static. They constantly deal with changing 
         {% include figure.liquid path="assets/img/img_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
 I focused on Automatic Modulation Recognition or AMR, which allows a system to understand what kind of signal it is receiving. Instead of manually analyzing signals, I used machine learning so the system can learn patterns by itself.
 
