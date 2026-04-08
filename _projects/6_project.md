@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Eden App
+description: bangkit academy project
+img: assets/img/img_5.png
 importance: 4
-category: fun
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.
