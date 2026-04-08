@@ -3,7 +3,7 @@ layout: page
 title: Eden App
 description: bangkit academy project
 img: assets/img/img_5.png
-importance: 4
+importance: 2
 category: academic
 ---
 
