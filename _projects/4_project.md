@@ -11,10 +11,10 @@ category: academic
 Modern communication systems are not static. They constantly deal with changing environments, noise, and unpredictable signals. Because of that, systems need to be adaptive. This is where my project started. I wanted to explore how we can automatically recognize different types of signal modulation in a smarter way.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/img_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/img_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
