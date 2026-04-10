@@ -23,12 +23,9 @@ I focused on Automatic Modulation Recognition or AMR, which allows a system to u
 
 One of the main challenges was handling complex signal data. Raw data is not always easy for a model to understand, so I transformed it into more meaningful forms like constellation diagrams and 2D CSV representations. With this approach, the model can capture the unique characteristics of each modulation type. In this project, I worked with six different types of modulation.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/img_7.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/img_8.png" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/img_11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
