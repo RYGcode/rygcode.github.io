@@ -9,14 +9,13 @@ category: academic
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/img_13.jpg" title="Eden App" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/img_13.png" title="Eden App" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 ### Building Eden: From Idea to Reality
 
-I started this project from something that actually feels very real today climate change. It is not just a theory anymore, we can see the impact slowly happening. The temperature of the earth keeps increasing, and one of the scary effects is rising sea levels. In the future, many cities might be affected, even Jakarta.
-One of the main reasons behind this problem is carbon emissions that are still hard to reduce. Forests actually help a lot by absorbing carbon, but sadly deforestation is still happening. Because of that, the natural filter of our earth is slowly decreasing.
+I started this project from something that actually feels very real today climate change. It is not just a theory anymore, we can see the impact slowly happening. The temperature of the earth keeps increasing, and one of the scary effects is rising sea levels. One of the main reasons behind this problem is carbon emissions that are still hard to reduce. Forests actually help a lot by absorbing carbon, but sadly deforestation is still happening. Because of that, the natural filter of our earth is slowly decreasing.
 From this situation, I realized that solving climate change is not only about big actions. Small actions from people also matter. With the large number of Android users in Indonesia, my team and I thought maybe we can use technology to invite people to start from something simple, like gardening at home.
 That is how the idea of Eden came. We wanted to introduce planting culture to younger generations using a more modern way, with the help of machine learning. The goal is simple, helping people build a habit of gardening while also increasing awareness about protecting the environment. We also added a gamification concept so it feels more engaging, not just another boring app.
 
@@ -28,6 +27,11 @@ For machine learning, we focused on building an image classification model. On t
 At first, we tried using a Convolutional Neural Network (CNN) model. But the results were not that good. The accuracy was still quite low. Then we tried another approach using transfer learning, and surprisingly it gave much better results. The model reached around 90% accuracy with about 88% validation accuracy.
 That was a big improvement compared to the first attempt.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/img_15.png" title="Eden App" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ### Building the Machine Learning Model
 
@@ -60,6 +64,11 @@ We tested the model using several real images. And honestly, the results were qu
 For example, when testing a sunflower image, the model correctly predicted it. The same goes for other plants like spider plant (Chlorophytum Comosum) and Snow White Aglaonema.
 Even with images that the model had never seen before, it was still able to give correct predictions most of the time.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/img_14.png" title="Eden App" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ### Final Result: The Eden App
 
@@ -72,5 +81,4 @@ And the main feature is plant classification. Users can take a photo of a plant,
 ### Closing Thoughts
 
 This project gave me a lot of new experience, especially in machine learning. I learned not only about building models, but also how to apply them to solve real problems.
-I also realized that having more and cleaner data really affects the model performance. And sometimes, using transfer learning can be a better choice than building a model from scratch.
-Overall, this journey is still ongoing. I am still learning and improving, and I will keep updating this project as I explore more ideas in the future.
+I also realized that having more and cleaner data really affects the model performance. And sometimes, using transfer learning can be a better choice than building a model from scratch. Overall, this journey is still ongoing. I am still learning and improving, and I will keep updating this project as I explore more ideas in the future.
