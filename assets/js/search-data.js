@@ -70,11 +70,6 @@ ninja.data = [{
           description: "publishing project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-eden-app",
-          title: 'Eden App',
-          description: "bangkit academy project",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
