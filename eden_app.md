@@ -19,7 +19,7 @@ I started this project from something that actually feels very real today climat
 One of the main reasons behind this problem is carbon emissions that are still hard to reduce. Forests actually help a lot by absorbing carbon, but sadly deforestation is still happening. Because of that, the natural filter of our earth is slowly decreasing.
 From this situation, I realized that solving climate change is not only about big actions. Small actions from people also matter. With the large number of Android users in Indonesia, my team and I thought maybe we can use technology to invite people to start from something simple, like gardening at home.
 That is how the idea of Eden came. We wanted to introduce planting culture to younger generations using a more modern way, with the help of machine learning. The goal is simple, helping people build a habit of gardening while also increasing awareness about protecting the environment. We also added a gamification concept so it feels more engaging, not just another boring app.
----
+
 
 ### How We Developed the App
 
@@ -27,7 +27,7 @@ During this project, we followed three main paths from Bangkit program: machine 
 For machine learning, we focused on building an image classification model. On the mobile side, the app was developed using Kotlin. And for cloud computing, we handled the integration between the model and the app, including data storage.
 At first, we tried using a Convolutional Neural Network (CNN) model. But the results were not that good. The accuracy was still quite low. Then we tried another approach using transfer learning, and surprisingly it gave much better results. The model reached around 90% accuracy with about 88% validation accuracy.
 That was a big improvement compared to the first attempt.
----
+
 
 ### Building the Machine Learning Model
 
@@ -35,7 +35,7 @@ The process started with collecting data. We gathered images from the internet u
 At the beginning, we collected around 50 types of ornamental plants, each with around 500 to 1000 images. But not all of them were usable. So we filtered and selected only the valid ones, and finally we decided to use 16 classes for training.
 After collecting the data, the next step was preprocessing. The images had different formats and sizes, so we needed to standardize them. We split the dataset into training and testing folders, resized all images to the same size, and normalized them so the model can process them properly.
 We also applied data augmentation like rotation, zoom, shift, and flipping. This helps increase the variation of the dataset, so the model can learn better.
----
+
 
 ### Training the Model
 
@@ -45,7 +45,6 @@ To improve this, we reduced the number of classes and tried another approach usi
 This approach worked much better. After training, the model reached around 90% accuracy with 88% validation accuracy. It was a huge improvement, andthe predictions on new images were also quite accurate.
 At that point, we felt confident enough to move to the next step.
 
----
 
 ### Deployment
 
@@ -53,14 +52,14 @@ After training, we prepared the model for deployment. There are two approaches w
 The first one is converting the model into TensorFlow Lite format. This allows the model to run directly on mobile devices, which is faster and simpler for integration.
 The second approach is using Flask and Docker to build an API. The model is loaded into a backend server, and the app can send requests to this API to get predictions. We tested this using Postman before deploying it to the server.
 Both methods were prepared to make it easier for both mobile and cloud teams to continue development.
----
+
 
 ### Testing the Model
 
 We tested the model using several real images. And honestly, the results were quite satisfying.
 For example, when testing a sunflower image, the model correctly predicted it. The same goes for other plants like spider plant (Chlorophytum Comosum) and Snow White Aglaonema.
 Even with images that the model had never seen before, it was still able to give correct predictions most of the time.
----
+
 
 ### Final Result: The Eden App
 
@@ -68,7 +67,7 @@ In the end, we built Eden with several main features.
 There is a login system so users can create and access their account. Then there is a plant donation feature, where users can share plants with others while earning points.
 We also added a plant list feature to help users keep track of their plants, including reminders and recommendations.
 And the main feature is plant classification. Users can take a photo of a plant, and the app will identify it using the trained model. It also provides additional information like how to take care of the plant.
----
+
 
 ### Closing Thoughts
 
