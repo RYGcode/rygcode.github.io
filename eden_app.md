@@ -68,7 +68,6 @@ In the end, we built Eden with several main features.
 There is a login system so users can create and access their account. Then there is a plant donation feature, where users can share plants with others while earning points.
 We also added a plant list feature to help users keep track of their plants, including reminders and recommendations.
 And the main feature is plant classification. Users can take a photo of a plant, and the app will identify it using the trained model. It also provides additional information like how to take care of the plant.
-
 ---
 
 ### Closing Thoughts
@@ -76,6 +75,3 @@ And the main feature is plant classification. Users can take a photo of a plant,
 This project gave me a lot of new experience, especially in machine learning. I learned not only about building models, but also how to apply them to solve real problems.
 I also realized that having more and cleaner data really affects the model performance. And sometimes, using transfer learning can be a better choice than building a model from scratch.
 Overall, this journey is still ongoing. I am still learning and improving, and I will keep updating this project as I explore more ideas in the future.
-
-
-{% endraw %}
