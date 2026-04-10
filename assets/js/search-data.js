@@ -85,6 +85,11 @@ ninja.data = [{
           description: "my academic project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/AMC_CNN/";
+            },},{id: "projects-eden-app",
+          title: 'Eden App',
+          description: "bangkit academy project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/eden_app/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
